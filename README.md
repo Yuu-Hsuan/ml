@@ -9,7 +9,7 @@
    ```
 4. 建立虛擬環境後，需要啟用它 :
    ```
-   .\venv\Scripts\activate
+   .\.venv\Scripts\activate
    ```
 6. 新增資料夾，取名為`main.py`
 7. 進入`main.py`，右下角選「選取解譯器」
